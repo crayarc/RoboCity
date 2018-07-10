@@ -1,2 +1,2 @@
 # RoboCity
-/home/mark/screenshot.png
+..screenshot.png
