@@ -1,2 +1,2 @@
 # RoboCity
-..screenshot.png
+screenshot.png
