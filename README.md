@@ -1,2 +1,2 @@
 # RoboCity
-![alt text](https://raw.githubusercontent.com/crayarc/RoboCity/master/screenshot.png)
+![alt text](https://github.com/crayarc/RoboCity/blob/master/RoboCity.jpg)
